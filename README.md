@@ -3,7 +3,7 @@
 ## Sobre mim
 Sempre gostei da área da tecnologia. Antes de me tornar programador, eu já sabia como montar computadores, pois tinha muito interesse nisso. No entanto, o que eu realmente queria era saber como criar meus próprios aplicativos web/mobile e meu próprio site. No entanto, eu não sabia por onde começar. Foi então que encontrei um curso e tive meu primeiro contato na área de programação. Realizei um curso intensivo de programação FullStack na Cubos Academy, com duração de 7 meses nunca havia me dedicado tanto a aprender algo na minha vida e desde que terminei o curso nao penso em trabalhar com outra coisa.
 
-Atualmente me considero um dev junior e atualemnte estou em busca de oportunidades. Tenho conhecimento nas seguintes tecnologias e linguagens:
+Atualmente me considero um dev junior e atualmente estou em busca de oportunidades. Tenho conhecimento nas seguintes tecnologias e linguagens:
 
 💻 React, Next.js, JavaScript, HTML5, CSS3 , Python.
 
