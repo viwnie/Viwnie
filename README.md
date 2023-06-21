@@ -35,7 +35,9 @@ Estou em busca de uma posição como desenvolvedor fullstack em uma empresa de t
 Se você está procurando um desenvolvedor junior apaixonado por tecnologia e com vontade de aprender, estou aberto a oportunidades. Ficarei feliz em discutir como posso contribuir para o crescimento da sua empresa. Entre em contato comigo por meio dos seguintes canais:
 
 📧 Email: viniciosalazar133@gmail.com
+
 🔗 WebSite: http://vinicio.me/
+
 
 <a href="https://discordapp.com/users/351516905116532736">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
