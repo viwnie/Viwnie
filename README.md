@@ -5,7 +5,7 @@ Sempre gostei da área da tecnologia. Antes de me tornar programador, eu já sab
 
 Atualmente me considero um dev junior e atualmente estou em busca de oportunidades. Tenho conhecimento nas seguintes tecnologias e linguagens:
 
-💻 React, Next.js, JavaScript, HTML5, CSS3 , Python.
+💻 React, Next.js, Typscript, JavaScript, Tailwind, Styled-Components, HTML5, CSS3 , Python.
 
 🗄️ Banco de Dados: PostgreSQL
 
