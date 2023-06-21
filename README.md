@@ -1,4 +1,5 @@
 # Olá, Meu nome e Vinicio! 👋
+
 ## Sobre mim
 Sempre gostei da área da tecnologia. Antes de me tornar programador, eu já sabia como montar computadores, pois tinha muito interesse nisso. No entanto, o que eu realmente queria era saber como criar meus próprios aplicativos web/mobile e meu próprio site. No entanto, eu não sabia por onde começar. Foi então que encontrei um curso e tive meu primeiro contato na área de programação. Realizei um curso intensivo de programação FullStack na Cubos Academy, com duração de 7 meses nunca havia me dedicado tanto a aprender algo na minha vida e desde que terminei o curso nao penso em trabalhar com outra coisa.
 
@@ -10,19 +11,27 @@ Atualmente me considero um dev junior e atualemnte estou em busca de oportunidad
 
 ⚙️ Node.js
 
-##C uriosidades
+## Curiosidades
 
 ✨ Apaixonado por desenvolvimento web e tecnologia em geral
+
 🎯 Determinado em aprender constantemente e aprimorar minhas habilidades
-🌐 Fluente em :es: e nível intermediário em :usa:
+
+🌐 Fluente em espanhol e nível intermediário em ingles
+
 🎮 Gosto de jogar no meu tempo livre
+
 🤝 Acredito na importância da socialização e em trabalhar em equipe
+
 📺 Amante de Cinema e Animes
 
+
 ## Objetivo
+
 Estou em busca de uma posição como desenvolvedor fullstack em uma empresa de tecnologia. Estou pronto para contribuir com minhas habilidades técnicas e minha paixão por criar soluções inovadoras. Sou uma pessoa dedicada, comprometida e estou ansioso para fazer parte de uma equipe dinâmica e colaborativa.
 
 ## Contato
+
 Se você está procurando um desenvolvedor junior apaixonado por tecnologia e com vontade de aprender, estou aberto a oportunidades. Ficarei feliz em discutir como posso contribuir para o crescimento da sua empresa. Entre em contato comigo por meio dos seguintes canais:
 
 📧 Email: viniciosalazar133@gmail.com
